@@ -1,11 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
-import ProgressBar from './ProgressBar';
+// import ProgressBar from './ProgressBar';
+
+import Psgen from './Psgen';
 
 function App() {
   return (
     <div className="App">
-    <ProgressBar/>
+   
+ <Psgen/>
     </div>
   );
 }
